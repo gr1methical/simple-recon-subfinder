@@ -5,5 +5,5 @@
 
 ## Tools Installation
 
-### Tool: [Simple Recon subdofinder]
-```python3 main.py
+### Tool: Simple Recon subdofinder
+```python3 main.py ```
