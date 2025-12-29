@@ -93,12 +93,3 @@ try:
 except KeyboardInterrupt:
     print("\n[!] Scan interrupted by you. Goodbye!")
 
-# url = input("Enter URL:")
-# r = requests.get(url)
-# status = r.status_code
-#
-#
-# if status == 200:
-#     print(f"{url} => {status}")
-# else:
-#     print(f"{url} => {status}")
